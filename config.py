@@ -1,7 +1,7 @@
 # config.py
 
 BOT_SETTINGS = {
-    "TOKEN": "YOUR_TELEGRAM_TOKEN",  # توكن البوت
+    "TOKEN": "8125063774:AAEVQy_Uk4cDisRb2-vDnrR8dPBAPAZhBM8",  # توكن البوت
     "NAME": "محمود إبراهيم الصالح",
     "RESTAURANT": "فور سيزون",
     "LOCATION": "قرية الصبحە",
